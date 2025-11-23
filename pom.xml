@@ -10,6 +10,7 @@
   <modules>
     <module>20CodeTest1</module>
     <module>21CodeTest2</module>
+    <module>leetcodeTest</module>
   </modules>
 
   <properties>
